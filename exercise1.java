@@ -6,6 +6,7 @@
  | |___ ___) | |   / __/| |_| | | (_) |
  |_____|____/___| |_____|\___/|_|\___/ 
 
+
  */
 
 public class exercise1 {
@@ -21,7 +22,7 @@ public class exercise1 {
 //Intergers are whole numbers that are either positive or negative, or 0.
 //Replace this integer with your age!
 
- int age = 46;
+ int age = 18;
 
 //Doubles are numbers that have decimals and are positive or negative
 //Replace this Double with the gas prices in Chicago
@@ -49,7 +50,7 @@ System.out.println("I am " + age + " years old!");
 if(age == 69){
 	System.out.println("N i c e!");
 } else if(age < 16){
-	System.out.println("Wait w h a t");
+	System.out.println("Wait w h a t, no!");
 } else if(age > 19){
 	System.out.println("Oof");
 }
